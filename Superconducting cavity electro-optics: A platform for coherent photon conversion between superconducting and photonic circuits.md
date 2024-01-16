@@ -13,15 +13,19 @@
 - 光子は差周波混合によってマイクロ波光子に変換される．
 # 図
 ![image](https://github.com/katagiri2024/paper/assets/156789455/357dea0f-93ad-401f-8409-abd6212cd30a)
+
 レベル反交差(縦軸はエネルギー，横軸はデバイスにかかる電圧であり離調)
 
 ![image](https://github.com/katagiri2024/paper/assets/156789455/3d1531d9-218f-4828-8941-8f04ed4558cc)
+
 光の反射光強度(共鳴周波数で反射光強度が小さくなっている)
 
 ![image](https://github.com/katagiri2024/paper/assets/156789455/ddf1324a-5054-4783-bd48-2520d7713d3e)
+
 マイクロ波の反射光強度
 
 ![image](https://github.com/katagiri2024/paper/assets/156789455/5e8d6afa-2c9d-45ba-b964-10da28a89c35)
+
 シングルサイドバンド変調によってポンプ光から生成したプローブ光の反射光強度
 通常の光共振器による反射とマイクロ波光子に変換されてそのあとまた光子に変換されたプローブ光が見えている
 
@@ -29,7 +33,8 @@
 
 
 ![image](https://github.com/katagiri2024/paper/assets/156789455/a86b9ef6-56bc-44b9-aae8-0a491b84a699)
-- 実験系
+
+実験系
 
 # 結果
 - 三重共鳴を用いた超伝導回路と光工学回路のコヒーレントかつ直接的な変換を実現した．
