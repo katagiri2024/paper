@@ -6,6 +6,9 @@
 
 # 超伝導量子コンピュータ
 
+# イオントラップ量子コンピュータ
+- [米IonQが 量子通信ネットワーク実現の要となるイオン-光子間のエンタングルメントを実証](https://www.qcrjp.com/post/ionq-ion-photon-entanglement-feb2024)
+
 # NVセンタ
 - [極低温下で動作可能な量子ビット制御回路を開発：量子コンピュータの大規模化へ - EE Times Japan (itmedia.co.jp)](https://eetimes.itmedia.co.jp/ee/articles/2402/22/news130.html)
 
@@ -14,3 +17,4 @@
 
 # 量子インターフェース
 - [世界初、通信波長の光に共鳴する電子とギガヘルツ超音波のハイブリッド状態を実現](https://group.ntt/jp/newsrelease/2024/01/19/240119a.html)
+- [米IonQが 量子通信ネットワーク実現の要となるイオン-光子間のエンタングルメントを実証](https://www.qcrjp.com/post/ionq-ion-photon-entanglement-feb2024)
