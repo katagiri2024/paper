@@ -11,6 +11,7 @@
 
 # NVセンタ
 - [極低温下で動作可能な量子ビット制御回路を開発：量子コンピュータの大規模化へ - EE Times Japan (itmedia.co.jp)](https://eetimes.itmedia.co.jp/ee/articles/2402/22/news130.html)
+- [重いIV族元素からなるダイヤモンド量子光源からの自然幅の発光を観測](https://www.titech.ac.jp/news/2024/068434)
 
 # 光量子コンピュータ
 - [伝搬する光の論理量子ビットの生成](https://www.nict.go.jp/press/2024/01/19-1.html)
